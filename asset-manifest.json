@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ny-invitation/static/css/main.964fdded.css",
+    "main.js": "/ny-invitation/static/js/main.db7922f5.js",
+    "index.html": "/ny-invitation/index.html",
+    "main.964fdded.css.map": "/ny-invitation/static/css/main.964fdded.css.map",
+    "main.db7922f5.js.map": "/ny-invitation/static/js/main.db7922f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.db7922f5.js"
+  ]
+}
