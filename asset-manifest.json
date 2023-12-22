@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/ny-invitation/static/css/main.964fdded.css",
-    "main.js": "/ny-invitation/static/js/main.db7922f5.js",
+    "main.css": "/ny-invitation/static/css/main.e9c15fcd.css",
+    "main.js": "/ny-invitation/static/js/main.5a9f9a1d.js",
+    "static/media/firework.mp4": "/ny-invitation/static/media/firework.45cef3269faafa512ff1.mp4",
     "index.html": "/ny-invitation/index.html",
-    "main.964fdded.css.map": "/ny-invitation/static/css/main.964fdded.css.map",
-    "main.db7922f5.js.map": "/ny-invitation/static/js/main.db7922f5.js.map"
+    "main.e9c15fcd.css.map": "/ny-invitation/static/css/main.e9c15fcd.css.map",
+    "main.5a9f9a1d.js.map": "/ny-invitation/static/js/main.5a9f9a1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.db7922f5.js"
+    "static/css/main.e9c15fcd.css",
+    "static/js/main.5a9f9a1d.js"
   ]
 }
