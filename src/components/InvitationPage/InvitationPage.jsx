@@ -9,7 +9,7 @@ const InvitationPage = () => {
     const [counter, setCounter] = useState(0);
 
     const invitationArray = [
-        { title: 'Starting my Invitation', about: 'just wait a few thousends of ms' },
+        { title: 'Starting my Invitation', about: 'just wait a few thousands of ms' },
         { title: 'Standart wish:', about: 'Health & Luck' },
         { title: 'Non Standart wish:', about: "DON'T be yourself" },
         { title: '', about: 'be BETTER...' },
